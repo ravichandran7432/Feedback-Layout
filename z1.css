@@ -1,0 +1,45 @@
+.a2{
+    width: 100%;
+}
+input{
+    height: 30px;
+}
+.a3{
+    justify-content: end;
+    align-items: end;
+    position: relative;
+}
+body{
+    background-color: antiquewhite;
+}
+#title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: orange;
+}
+button{
+    height: 40px;
+    width: 100%;
+    background-color: orange;
+}
+.v2{
+    margin-left: 50px;
+}
+.v4{
+    margin-left: 115px;
+}
+.v6{
+    margin-left: 165px;
+}
+.a{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
